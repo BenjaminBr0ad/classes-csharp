@@ -1,0 +1,11 @@
+/Users/benjaminbroad/Workspace/dotnet-projects/classes/bin/Debug/netcoreapp2.2/classes.deps.json
+/Users/benjaminbroad/Workspace/dotnet-projects/classes/bin/Debug/netcoreapp2.2/classes.runtimeconfig.json
+/Users/benjaminbroad/Workspace/dotnet-projects/classes/bin/Debug/netcoreapp2.2/classes.runtimeconfig.dev.json
+/Users/benjaminbroad/Workspace/dotnet-projects/classes/bin/Debug/netcoreapp2.2/classes.dll
+/Users/benjaminbroad/Workspace/dotnet-projects/classes/bin/Debug/netcoreapp2.2/classes.pdb
+/Users/benjaminbroad/Workspace/dotnet-projects/classes/obj/Debug/netcoreapp2.2/classes.csprojAssemblyReference.cache
+/Users/benjaminbroad/Workspace/dotnet-projects/classes/obj/Debug/netcoreapp2.2/classes.csproj.CoreCompileInputs.cache
+/Users/benjaminbroad/Workspace/dotnet-projects/classes/obj/Debug/netcoreapp2.2/classes.AssemblyInfoInputs.cache
+/Users/benjaminbroad/Workspace/dotnet-projects/classes/obj/Debug/netcoreapp2.2/classes.AssemblyInfo.cs
+/Users/benjaminbroad/Workspace/dotnet-projects/classes/obj/Debug/netcoreapp2.2/classes.dll
+/Users/benjaminbroad/Workspace/dotnet-projects/classes/obj/Debug/netcoreapp2.2/classes.pdb
